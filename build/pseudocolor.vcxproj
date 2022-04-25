@@ -313,6 +313,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\FOEE\Projects\pseudocolor\include\InputParser.hpp" />
     <ClCompile Include="C:\Users\FOEE\Projects\pseudocolor\src\pseudocolor.cpp" />
   </ItemGroup>
   <ItemGroup>

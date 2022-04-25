@@ -6,9 +6,17 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\FOEE\Projects\pseudocolor\include\InputParser.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
     <CustomBuild Include="C:\Users\FOEE\Projects\pseudocolor\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{18247491-D3E7-3C26-8979-13E447A7804E}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{C895CCCD-D1EF-35CF-B89D-D4B2C7A29E4C}</UniqueIdentifier>
     </Filter>
