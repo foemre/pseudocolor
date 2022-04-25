@@ -10,6 +10,7 @@ int main(int argc, char **argv){
     //     std::cout << "Usage: " << std::endl << "-m NUMBER - Specify OpenCV colormap" << std::endl <<
     //         "Reference: https://docs.opencv.org/4.x/d3/d50/group__imgproc__colormap.html" << std::endl;
     // }
+    
     cv::Mat image;
     cv::Mat colorImage;
     cv::namedWindow("Display window");
