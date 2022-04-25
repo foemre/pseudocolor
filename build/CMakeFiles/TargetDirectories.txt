@@ -1,3 +1,0 @@
-C:/Users/FOEE/Projects/pseudocolor/build/CMakeFiles/pseudocolor.dir
-C:/Users/FOEE/Projects/pseudocolor/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/FOEE/Projects/pseudocolor/build/CMakeFiles/ZERO_CHECK.dir
